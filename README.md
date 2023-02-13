@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @atugan15
+- 👋 Hi, I’m @atugan
 - 👀 I’m interested in Arduino and Robotics 
-- 🌱 I’m currently learning Arduino 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 i am currently learning frontend web development 
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me atugan2000@gmail.com
 
 <!---
